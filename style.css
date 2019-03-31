@@ -1,0 +1,109 @@
+body{
+	font: 40pxArial,Helvetica,sans-serif;
+	background-color: cornflowerblue;
+	color: black;
+}
+.kontainer{
+	width: 720px;
+	margin: auto;
+	background-color: cornflowerblue;
+	
+	box-shadow: 0px 0px 30px #0000e6;
+	-moz-box-shadow: 0px 0px 30px #0000e6;
+	-webkit-box-shadow: 0px 0px 30px #0000e6;
+	border-radius: 17px 0 17px 0;
+	-moz-border-radius:17px;
+	-webkit-border-radius:17px;
+
+}
+.header{
+	padding: 10px;
+	padding: 10px;
+}
+.header .judul{
+	font-size: 40px;
+	font: "Monotype Corsiva";
+	text-align:center;
+	font-weight: bold;
+	color: darkblue;
+}
+.header ul li{
+	display:inline-block;
+	margin-top:5px;
+	margin-right:40px;
+	
+	box-shadow: 0px 0px 25px #0000e6;
+	-moz-box-shadow: 0px 0px 25px #0000e6;
+	-webkit-box-shadow: 0px 0px 25px #0000e6;
+	
+	border-radius: 17px 0px 17px 0px;
+	-moz-border-radius:17px;
+	-webkit-border-radius:17px;
+}
+.header a{
+	text-decoration:none;
+	color:#3333ff;
+	padding: 12px;
+
+}
+.header a:hover{
+	background-color:cornflowerblue;
+	color:yellow;
+	font-size: 20px;
+}
+.gbr{
+	height:600px;
+	background-image:url(tangkubanparahu.jpg);
+	background-size: cover;
+	background-position: 0 -180;
+	border-top: 5px inherit;
+	border-bottom: 5px inherit;
+	box-shadow: 0px 0px 30px #0000e6;
+	-moz-box-shadow: 0px 0px 30px #0000e6;
+	-webkit-box-shadow: 0px 0px 30px #0000e6;
+	border-radius: 17px 0 17px 0;
+	-moz-border-radius:17px;
+	-webkit-border-radius:17px;
+
+}
+.konten{
+	padding:20px;
+}
+.konten h2{
+	font-size: 28px;
+	font-weight: bold;
+	color:darkblue;
+}
+.konten .penulis{
+	font-size: 14px;
+	margin-top: -5px;
+}
+.konten p{
+	margin-bottom: 20px;
+	font-size: 17px;
+	text-align: justify;
+	color: white;
+}
+.konten .penulis a{
+	color: blue;
+	text-decoration: none;
+}
+.footer{
+	background-color: black;
+	padding:3px;
+	box-shadow: 0px 0px 10px #0000e6;
+	-moz-box-shadow: 0px 0px 10px #0000e6;
+	-webkit-box-shadow: 0px 0px 10px #0000e6;
+	border-radius: 17px 0 17px 0;
+	-moz-border-radius:17px;
+	-webkit-border-radius:17px;
+
+}
+.footer .copy{
+	color: yellow;
+	text-align: center;
+	font-size: 14px;
+	text-decoration:none;
+}
+
+	
